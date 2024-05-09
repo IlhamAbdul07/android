@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="hintusername">Input Username</string>
+    <string name="hintpassword">Input Password</string>
+    <string name="hintbutton">LOGIN</string>
+
+</resources>
